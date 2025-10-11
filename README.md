@@ -1,1 +1,1 @@
-# AI_Guild_Task2
+Anomaly detection and segmentation
