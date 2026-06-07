@@ -1,10 +1,10 @@
 Anomaly Odyssey (Computer Vision)
 
 ## Overview
-This repository contains my implementation for "Task 2: Anomaly Odyssey," a computer vision challenge focused on Anomaly Detection and Image Segmentation. The primary objective of this task is to build robust models capable of identifying and segmenting anomalies in image data using the MVTec AD dataset.
+This repository contains my implementation for a computer vision challenge focused on Anomaly Detection and Image Segmentation. The primary objective of this task is to build robust models capable of identifying and segmenting anomalies in image data using the MVTec AD dataset.
 
 ## Task Guidelines & Constraints
-This project was developed strictly adhering to the following AI Guild guidelines:
+This project was developed strictly adhering to the following guidelines:
 * **No Pretrained Anomaly Models:** The use of models pretrained on MVTec AD or any other specific anomaly detection datasets is not permitted.
 * **Independent Training:** While replicating architectures from established research papers is allowed, all models were trained or fine-tuned independently from scratch.
 * **No External Data:** The models are trained exclusively on the provided dataset.
