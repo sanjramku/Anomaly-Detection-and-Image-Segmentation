@@ -1,4 +1,4 @@
-# Task 2: Anomaly Odyssey (Computer Vision)
+Anomaly Odyssey (Computer Vision)
 
 ## Overview
 This repository contains my implementation for "Task 2: Anomaly Odyssey," a computer vision challenge focused on Anomaly Detection and Image Segmentation. The primary objective of this task is to build robust models capable of identifying and segmenting anomalies in image data using the MVTec AD dataset.
